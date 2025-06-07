@@ -150,4 +150,3 @@ MIT © 2025 – Prem Kumar
 
 ---
 
-Let me know if you'd like a badge, sample `.env` file, or GitHub Actions CI setup added!
