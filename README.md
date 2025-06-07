@@ -1,5 +1,3 @@
-Here’s a complete **GitHub README.md** file for your project, which includes details for both `docker.py` and `streaming.py` as well as relevant Docker Model Runner commands:
-
 ---
 
 # 🐳 Local Model Chatbot with Docker Model Runner
