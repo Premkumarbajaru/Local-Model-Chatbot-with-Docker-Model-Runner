@@ -1,3 +1,4 @@
+
 ---
 
 # 🐳 Local Model Chatbot with Docker Model Runner
@@ -148,3 +149,5 @@ Once upon a time, a little girl found a...
 MIT © 2025 – Prem Kumar
 
 ---
+
+Let me know if you'd like a badge, sample `.env` file, or GitHub Actions CI setup added!
