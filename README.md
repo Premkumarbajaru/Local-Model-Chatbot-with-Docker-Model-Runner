@@ -144,9 +144,4 @@ Once upon a time, a little girl found a...
 
 ---
 
-## 📄 License
-
-MIT © 2025 – Prem Kumar
-
----
 
